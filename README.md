@@ -1,5 +1,5 @@
 Hello I am @chibitrader
-
+contact me on discord --> chibitrader#8657
 I am a passionate full-stack developer with over 3 years of web and app development. Over the past 1 year I been working in blockchain development.
 I hope you enjoy viewing my projects as much as I loved making them.
 
