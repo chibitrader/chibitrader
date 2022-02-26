@@ -7,6 +7,7 @@ I hope you enjoy viewing my projects as much as I loved making them.
 
 
 My skills :
+
 ✅ Frontend: React.js, Redux, Thunk, Saga, StoryBook, Next.js, Gatsby, Vue.js, Vuex, Vuetify, Nuxt.js, Laravel+Vue, Angular JS/Material, Material-UI, Bootstrap, CSS, SCSS, Tailwind - CSS, Figma to HTML, PSD to HTML, XD to HTML
 
 ✅ Backend: Node.js, Express.js, Nest.js, Restful API, Google Firebase
