@@ -8,16 +8,17 @@ I hope you enjoy viewing my projects as much as I loved making them.
 
 My skills :
 
-✅ Frontend: React.js, Redux, Thunk, Saga, StoryBook, Next.js, Gatsby, Vue.js, Vuex, Vuetify, Nuxt.js, Laravel+Vue, Angular JS/Material, Material-UI, Bootstrap, CSS, SCSS, Tailwind - CSS, Figma to HTML, PSD to HTML, XD to HTML
+✅ Frontend: Html, CSS, JS, Angular, React, Anime.js, Vue, TypeScript, Solid JS, Bootstrap
 
-✅ Backend: Node.js, Express.js, Nest.js, Restful API, Google Firebase
+✅ Backend: Python, NumPy, SciPy, Scikit-learn, Net.Core, Eli5, MySQL, NodeJS, Redis, AWS, MongoDB, Spark
 
-✅ Database: MySQL/PostgresSQL/MongoDB/MS SQL
+✅ Development & Operations: JUnit, Nunit, Pyunit, TestCafe, Mocha, Jest, Scrum, Agile, Git, Azure DevOps, Ganache
 
 ✅ Mobile App: Swift for IOS development
 
 ✅ Blockchain: 
    - DeFi, Dapp
+   - Solidity, Rust
    - Smart Contracts(development, integrate with frontend using Web3, deploying on Ethereum/Polygon Network using Hardhat/Truffle/Remix)
    - NFT Marketplace, NFT games, NFT Foundry Website, NFT Art Image by rarity, OpenSea, Pinata, Metadata Generate, Staking, Reveal Function
    - ERC-20, ERC-721, ERC-1155, Solidity
